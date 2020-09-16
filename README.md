@@ -1,0 +1,1 @@
+This is a recreation of the Google homepage. This project will test my HTML and CSS knowledge. I will use many different techniques, including navigation bars, headers, footers, Flexbox, forms, and much more.
